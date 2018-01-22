@@ -24,6 +24,9 @@ namespace tehtava1
             leopard.accerelateto(20);
             Console.WriteLine("painetaampas leopardin kaasupoljin pohjasta lapi... ");
             Console.WriteLine("nopeus " + leopard.speed);
+            Console.WriteLine("VIHOLLISIA!!! JARRUT POHJAAN!!");
+            leopard.slowto(0);
+            Console.WriteLine("nopeus: " + leopard.speed);
             Console.WriteLine("\nKEPARD 69-dd");
             kepard._crewcount = 6;
             kepard.name = "jorma";
@@ -35,6 +38,9 @@ namespace tehtava1
             kepard.accerelateto(70);
             Console.WriteLine("runtataampas kepardin kaasu kohti kaakkoa... ");
             Console.WriteLine("nopeus " + kepard.speed);
+            Console.WriteLine("JUMALAUTA PEURA!!!! JARRUT POHJAAN!!");
+            kepard.slowto(12);
+            Console.WriteLine("nopeus: " + kepard.speed);
             Console.WriteLine("\nKAMIKARD 420-blazzeyit");
             kamikard._crewcount = 2;
             kamikard.name = "zorgos";
@@ -46,6 +52,9 @@ namespace tehtava1
             kamikard.accerelateto(200);
             Console.WriteLine("Kokeillaan kamikardin kaasupoljinta hellasti... ");
             Console.WriteLine("nopeus " + kamikard.speed);
+            Console.WriteLine("APUA PUU!! JARRUT POHJAAN!!");
+            kamikard.slowto(4);
+            Console.WriteLine("nopeus: "+kamikard.speed);
 
 
 

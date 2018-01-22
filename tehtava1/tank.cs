@@ -48,7 +48,7 @@ namespace tehtava1
             _speed = (int)n;
            if(_speed > maxspeed)
             {
-                _speed = 100;
+                _speed = maxspeed;
             }
         }
         public void slowto(float i)

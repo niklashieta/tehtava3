@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "statictest", "statictest\st
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava1", "tehtava1\tehtava1.csproj", "{B9C44AF0-DBCE-48AA-9235-2CB6BDD0CBBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava2", "tehtava2\tehtava2.csproj", "{74E51E14-E14D-4950-B32B-12731FDEB97B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B9C44AF0-DBCE-48AA-9235-2CB6BDD0CBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9C44AF0-DBCE-48AA-9235-2CB6BDD0CBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9C44AF0-DBCE-48AA-9235-2CB6BDD0CBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E51E14-E14D-4950-B32B-12731FDEB97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E51E14-E14D-4950-B32B-12731FDEB97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E51E14-E14D-4950-B32B-12731FDEB97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E51E14-E14D-4950-B32B-12731FDEB97B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
