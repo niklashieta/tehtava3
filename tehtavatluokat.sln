@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava3", "tehtava3\tehtava3.csproj", "{CD9E5AC7-3DA1-4024-B351-BF01B35F6605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carapp", "carapp\carapp.csproj", "{0494735C-A636-4059-9B5C-EE81ED376B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "statictest", "statictest\statictest.csproj", "{0F4B2359-B026-487A-9A86-A99B77995F8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CD9E5AC7-3DA1-4024-B351-BF01B35F6605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD9E5AC7-3DA1-4024-B351-BF01B35F6605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD9E5AC7-3DA1-4024-B351-BF01B35F6605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0494735C-A636-4059-9B5C-EE81ED376B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0494735C-A636-4059-9B5C-EE81ED376B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0494735C-A636-4059-9B5C-EE81ED376B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0494735C-A636-4059-9B5C-EE81ED376B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4B2359-B026-487A-9A86-A99B77995F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4B2359-B026-487A-9A86-A99B77995F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4B2359-B026-487A-9A86-A99B77995F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4B2359-B026-487A-9A86-A99B77995F8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
