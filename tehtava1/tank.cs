@@ -54,6 +54,7 @@ namespace tehtava1
         public void slowto(float i)
         {
               _speed = (int) i;
+            if(_speed < 0) { _speed = 0; }
         }
     }
 }

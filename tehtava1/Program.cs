@@ -53,7 +53,7 @@ namespace tehtava1
             Console.WriteLine("Kokeillaan kamikardin kaasupoljinta hellasti... ");
             Console.WriteLine("nopeus " + kamikard.speed);
             Console.WriteLine("APUA PUU!! JARRUT POHJAAN!!");
-            kamikard.slowto(4);
+            kamikard.slowto(20);
             Console.WriteLine("nopeus: "+kamikard.speed);
 
 
